@@ -1,0 +1,3 @@
+mkdir ... - nowy folder
+cd ... - przejœcie do folderu
+git init - nowe repozytorium
