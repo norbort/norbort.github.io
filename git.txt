@@ -1,3 +1,18 @@
 mkdir ... - nowy folder
 cd ... - przejœcie do folderu
 git init - nowe repozytorium
+git status - pokazuje zmiany
+git add - dodaje plik do repozytorium
+git commit - zapisuje zmiany
+giut diff head - pokazuje zmiany/nowe rzeczy w pliku
+
+
+
+
+
+
+
+
+
+
+minecraft
